@@ -1,9 +1,10 @@
 ## My Validator Activity:
-![Artela](https://github.com/user-attachments/assets/4f80edfa-bb98-41a2-bb35-a890251559b8)
-![warden-p-logo](https://github.com/user-attachments/assets/615465ed-60d5-4ed9-98d6-a9dbad6b156a)
-![side-bg](https://github.com/user-attachments/assets/7de25925-17ff-41cf-af60-9b31c7809ba4)
-![AirChains](https://github.com/user-attachments/assets/76d9c8a5-5f0b-4d25-a3ce-c645d1f31a60)
-![lava-p-logo](https://github.com/user-attachments/assets/bd8dca0b-84f6-49a0-a666-3804d4e2065e)
+
+<img src="https://github.com/user-attachments/assets/4f80edfa-bb98-41a2-bb35-a890251559b8" width=150>
+<img src="https://github.com/user-attachments/assets/615465ed-60d5-4ed9-98d6-a9dbad6b156a" width=150>
+<img src="https://github.com/user-attachments/assets/7de25925-17ff-41cf-af60-9b31c7809ba4" width=150>
+<img src="https://github.com/user-attachments/assets/76d9c8a5-5f0b-4d25-a3ce-c645d1f31a60" width=150>
+<img src="https://github.com/user-attachments/assets/bd8dca0b-84f6-49a0-a666-3804d4e2065e" width=150>
 
 ## My publications:
 - [0g labs validator node run](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/UaG8sNZezks0CUgQSy1SN3uHc2t8Xm5oxPi82i4tlVY)
