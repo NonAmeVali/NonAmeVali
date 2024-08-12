@@ -1,6 +1,6 @@
 ## My Validator Activity:
 
-<img src="https://github.com/user-attachments/assets/4f80edfa-bb98-41a2-bb35-a890251559b8" width=150>
+<a href=""><img src="https://github.com/user-attachments/assets/4f80edfa-bb98-41a2-bb35-a890251559b8" width=150></a>
 <img src="https://github.com/user-attachments/assets/615465ed-60d5-4ed9-98d6-a9dbad6b156a" width=150>
 <img src="https://github.com/user-attachments/assets/9bc71fc9-e881-4d9e-b50d-0d3ca89b5a8e" width=150>
 <img src="https://github.com/user-attachments/assets/76d9c8a5-5f0b-4d25-a3ce-c645d1f31a60" width=150>
