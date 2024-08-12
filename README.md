@@ -14,7 +14,7 @@
 - [0g labs da node guide](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/M0BtzCGJ6i_xh6EFRCD7VY-xgpwGXjgN2jxnWEiWVac)
 
 ### Other Articles:
-- [Why Lava Protocol Stands Out to Me: A Personal Perspective](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/VXxJG-L0asKvnTZKIjwjf0AEk5Hb_MsSdxrQw-T5A8Y)
+- [🌋 Why Lava Protocol Stands Out to Me: A Personal Perspective](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/VXxJG-L0asKvnTZKIjwjf0AEk5Hb_MsSdxrQw-T5A8Y)
 - [Why Artela Has Captured My Imagination: A Fresh Take on Blockchain](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/hqAkNl5lBTHnOLgEem3_zMGswKm6XoP9xnIkGM4u8FY)
 
 ## Links:
