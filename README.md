@@ -5,6 +5,8 @@
 <a href="https://testnet.side.explorers.guru/validator/sidevaloper1qqypwxqvp50qs9qcrst3crqhpcv3wzqlrsgsxzccruv3uqtqy8s63cx3w7"><img src="https://github.com/user-attachments/assets/9bc71fc9-e881-4d9e-b50d-0d3ca89b5a8e" width=150></a>
 <a href="https://testnet.junction.explorers.guru/validator/airvaloper1gxkf9enmp4pc50wgmemf3haygm8vllqrdp0w90"><img src="https://github.com/user-attachments/assets/76d9c8a5-5f0b-4d25-a3ce-c645d1f31a60" width=150></a>
 <a href="https://testnet.lava.explorers.guru/validator/lava@valoper17q5xtta0ep273zkm8hz49ze6hs8rkr24aqvwde"><img src="https://github.com/user-attachments/assets/bd8dca0b-84f6-49a0-a666-3804d4e2065e" width=150></a>
+<a href="https://github.com/NonAmeVali/pell_setup_guide"><img src="https://assets.nodes.guru/d9e82e4d-237a-40ec-81ec-620f23022c46.svg" width=150></a>
+<a href="https://github.com/NonAmeVali/exocore_setup_guide"><img src="https://assets.nodes.guru/5f88d82d-7d00-4f31-a921-74a7d215e188.svg" width=150></a>
 
 
 ## My publications:
@@ -12,6 +14,8 @@
 - [Installing Hubble: My Go-To Guide for Getting Started 🚀](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/qduRtMZARoiOFz9etEA-ZwDqibDZ9QSNCVqloTgpxAw)
 - [Side Protocol Validator Guide](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/lAZt1EZfRyB8FaFkQTgW2vFB15blJpMaWMxrAAumoSA)
 - [0g labs da node guide](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/M0BtzCGJ6i_xh6EFRCD7VY-xgpwGXjgN2jxnWEiWVac)
+- [Pell_setup_guide](https://github.com/NonAmeVali/pell_setup_guide)
+- [Exocore_setup_guide](https://github.com/NonAmeVali/exocore_setup_guide)
 
 ### Other Articles:
 - [🌋 Why Lava Protocol Stands Out to Me: A Personal Perspective](https://mirror.xyz/0x5AA780b97235A9cDa72226D5519f5a9137FAd7Ff/VXxJG-L0asKvnTZKIjwjf0AEk5Hb_MsSdxrQw-T5A8Y)
